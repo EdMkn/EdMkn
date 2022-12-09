@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello, My name is Makon Manyim Ma
+### Hi, mon nom est Manyim Ma Makon
 <!--
 **EdMkn/EdMkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
