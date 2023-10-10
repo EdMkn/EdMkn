@@ -1,7 +1,7 @@
 ## Hello, My name is Makon Manyim Ma
-## [Hi, mon nom est Manyim Ma Makon](https://visitor-badge.glitch.me/badge?page_id=EdMkn)
+## [Hi, mon nom est Manyim Ma Makon]
 
-(https://visitor-badge.glitch.me/badge?page_id=EdMkn)
+<!--(https://visitor-badge.glitch.me/badge?page_id=EdMkn) -->
 
 <!--
 **EdMkn/EdMkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
