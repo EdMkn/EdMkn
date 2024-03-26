@@ -59,7 +59,7 @@ Links to My repositories using Maven/Springboot
   [Link](https://github.com/EdMkn/Projet_Calcul)
 
 # Javascript/typescript repo_links
-## - little-projects
+## - little-projects (Angular/Reactjs)
   [Link](https://github.com/EdMkn/little-projects)
 
 # Symfony repo_Links
@@ -69,5 +69,6 @@ Links to My repositories using Maven/Springboot
 # Golang repo_links
 ## - Go-Gin-mongo
  [Link](https://github.com/EdMkn/go-gin-mongo)
+
 
  
