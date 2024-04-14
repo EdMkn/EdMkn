@@ -34,86 +34,69 @@ Etudiant en informatique (Génie Logiciel), je monterai en compétences en mati�
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
 <!-- <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"> -->
 
-Markup: <details>
-        <summary> <h1>Python repositories</h1> </summary>
-         <p> Links to My Python repositories< /p>
-         <h2> Weather-App </h2>
-          Web app giving the temperature of the town given its name, state code , and country code. 
-          Done in Python and Flask
-          
-          [Link](https://github.com/EdMkn/weather-app)
-          
+<details>
+          <summary> <h1>Python repositories</h1> </summary>
+          <p> Links to My Python repositories</p>
+          <h2> Weather-App </h2>
+          Web app giving the temperature of the town given its name, state code , and country code. <br/>
+          Done in Python and Flask<br/>
+          [Link](https://github.com/EdMkn/weather-app)<br/><br/>
          <h2>Temperature-room</h2>
-          Web app giving the temperature of a room defined (not over)
-          Done in Python, Flask, and Elephantsql for the DB 
-          
-          [Link](https://github.com/EdMkn/restapi-flask-postgres)
-          
+          Web app giving the temperature of a room defined (not over)<br/>
+          Done in Python, Flask, and Elephantsql for the DB <br/>
+          [Link](https://github.com/EdMkn/restapi-flask-postgres)<br/><br/>
          <h2>Income Website</h2>
-         (not over)
-        Done in Python Django
+         (not over)<br/>
+          Done in Python Django<br/>
+        [Link](https://github.com/EdMkn/django-income-website/)<br/><br/>
+</details>
         
-         [Link](https://github.com/EdMkn/django-income-website/)
-                   
-        </details>
-
-        <details>
+<details>
           <summary>
             <h1>Java & Maven repositories</h1>
           </summary>
           <p>Links to My repositories using Maven/Spring Boot</p>
-        
           <h2>Travel Agency</h2>
           <p><a href="https://github.com/EdMkn/travel_agency">Link</a></p>
-        
           <h2>Decoupling Java Training (Simple Java)</h2>
           <p><a href="https://github.com/EdMkn/decouplig_java_training">Link</a></p>
-        
           <h2>AMQP Training</h2>
           <p><a href="https://github.com/EdMkn/amqp_training">Link</a></p>
-        
           <h2>Web App Spring Training</h2>
           <p><a href="https://github.com/EdMkn/web_app_spring_training">Link</a></p>
-        
           <h2>Java API Training</h2>
           <p><a href="https://github.com/EdMkn/java_api_training">Link</a></p>
-        
           <h2>BlackJack</h2>
           <p><a href="https://github.com/EdMkn/BlackJack">Link</a></p>
-        
           <h2>Projet GLPOO MusicHub</h2>
           <p><a href="https://github.com/EdMkn/Projet_glpoo_musichub">Link</a></p>
-        
           <h2>Projet Calcul</h2>
           <p><a href="https://github.com/EdMkn/Projet_Calcul">Link</a></p>
-      </details>
+  </details>
 
-      <details>
+<details>
         <summary>
           <h1>JavaScript/TypeScript repositories</h1>
         </summary>
         <p>Links to My JavaScript/TypeScript repositories</p>
-      
         <h2>Little Projects (Angular/ReactJS)</h2>
         <p><a href="https://github.com/EdMkn/little-projects">Link</a></p>
-      </details>
+</details>
 
-      <details>
+<details>
         <summary>
           <h1>Symfony repositories</h1>
         </summary>
         <p>Links to My Symfony repositories</p>
-      
         <h2>Symfony5 Project</h2>
         <p><a href="https://github.com/EdMkn/Symf5_pjt">Link</a></p>
-      </details>
+</details>
 
-      <details>
+<details>
         <summary>
           <h1>Golang repositories</h1>
         </summary>
         <p>Links to My Golang repositories</p>
-      
         <h2>Go-Gin-Mongo</h2>
         <p><a href="https://github.com/EdMkn/go-gin-mongo">Link</a></p>
-      </details>
+</details>
