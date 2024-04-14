@@ -34,8 +34,23 @@ Etudiant en informatique (Génie Logiciel), je monterai en compétences en mati�
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
 <!-- <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"> -->
 
+# Python repositories
+Links to My Python repositories
+## - Weather-App
+Web app giving the temperature of the town given its name, state code , and country code. 
+Done in Python and Flask
+[Link](https://github.com/EdMkn/weather-app)
+## Temperature-room
+Web app giving the temperature of a room defined (not over)
+Done in Python, Flask, and Elephantsql for the DB 
+[Link](https://github.com/EdMkn/restapi-flask-postgres)
+## Income Website
+(not over)
+Done in Python Django
+[Link](https://github.com/EdMkn/django-income-website/)
 
-# Maven repo_links
+
+# Java & Maven repositories
 
 Links to My repositories using Maven/Springboot
 
@@ -48,7 +63,7 @@ Links to My repositories using Maven/Springboot
 ## - web_app_spring_training 
   [Link](https://github.com/EdMkn/web_app_spring_training)
 
-# Java repo_links
+
 ## - Java_api_training
   [Link](https://github.com/EdMkn/java_api_training)
 ## - BlackJack
@@ -58,15 +73,15 @@ Links to My repositories using Maven/Springboot
 ## - Projet_Calcul
   [Link](https://github.com/EdMkn/Projet_Calcul)
 
-# Javascript/typescript repo_links
+# Javascript/typescript repositories
 ## - little-projects (Angular/Reactjs)
   [Link](https://github.com/EdMkn/little-projects)
 
-# Symfony repo_Links
+# Symfony repositories
 ## - Symfony5 Project
   [Link](https://github.com/EdMkn/Symf5_pjt)
 
-# Golang repo_links
+# Golang repositories
 ## - Go-Gin-mongo
  [Link](https://github.com/EdMkn/go-gin-mongo)
 
