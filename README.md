@@ -83,6 +83,9 @@ Etudiant en informatique (Génie Logiciel), je monterai en compétences en mati�
           <h1>JavaScript/TypeScript repositories</h1>
         </summary>
         <p>Links to My JavaScript/TypeScript repositories</p>
+        <h2>Pet Market</h2>
+         (Unfinished) An E-commerce website for those who would like to buy products related to domestic animals
+        <p><a href="https://github.com/EdMkn/pet-market">Link</a></p>
         <h2>Little Projects (Angular/ReactJS)</h2>
         <p><a href="https://github.com/EdMkn/little-projects">Link</a></p>
 </details>
