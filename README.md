@@ -37,6 +37,10 @@ Etudiant en informatique (Génie Logiciel), je monterai en compétences en mati�
 <details>
           <summary> <h1>Python repositories</h1> </summary>
           <p> Links to My Python repositories</p>
+          <h2> Personal Finance Tracker </h2>
+          A little CLI Application that can help one to track their personal Finances. They register it on a CSV file<br/>
+          Done in a Python Environment<br/>
+          [Link](https://github.com/EdMkn/Personal-Finance-Tracker)<br/>
           <h2> Weather-App </h2>
           Web app giving the temperature of the town given its name, state code , and country code. <br/>
           Done in Python and Flask<br/>
