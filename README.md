@@ -1,5 +1,5 @@
-## Hello, My name is Makon Manyim Ma
-## [Hi, mon nom est Manyim Ma Makon]
+## Hello, My name is MaKON Manyim Ma alias Edouard MAKON
+## [Hi, mon nom est Manyim Ma Makon], also known as Edouard MAKON
 
 <!--(https://visitor-badge.glitch.me/badge?page_id=EdMkn) -->
 
