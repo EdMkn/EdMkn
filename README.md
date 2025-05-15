@@ -70,6 +70,8 @@ Etudiant en informatique (Génie Logiciel), je monterai en compétences en mati�
           <p><a href="https://github.com/EdMkn/web_app_spring_training">Link</a></p>
           <h2>Java API Training</h2>
           <p><a href="https://github.com/EdMkn/java_api_training">Link</a></p>
+          <h2>Todo App</h2>
+           <p><a href="https://github.com/EdMkn/todoapp">Link</a></p>
           <h2>BlackJack</h2>
           <p><a href="https://github.com/EdMkn/BlackJack">Link</a></p>
           <h2>Projet GLPOO MusicHub</h2>
